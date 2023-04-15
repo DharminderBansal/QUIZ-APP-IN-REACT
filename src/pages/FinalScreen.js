@@ -26,7 +26,3 @@ const FinalScreen = () => {
 }
 
 export default FinalScreen
-
-
-// git config --global user.name
-// git config --global user.name
